@@ -2,9 +2,8 @@
 title: Setting This Up
 draft: false
 tags:
-  - coding
-  - blog
   - learning
+  - coding
 ---
 ## The Requirements
 I've actually had this idea in mind for a while. In particular, I've wanted to use Obsidian on various platforms (my phone, ipad, laptop, etc.) alongside the ability to share notes with friends or have a website to direct to. 

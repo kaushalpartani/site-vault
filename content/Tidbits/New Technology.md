@@ -2,6 +2,7 @@
 title: New Technology
 draft: false
 tags:
+  - tidbit
   - tech
 ---
  

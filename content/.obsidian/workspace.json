@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Setting up this blog.md",
+                "file": "HelloWorld.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Setting up this blog.md",
+                "file": "HelloWorld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Setting up this blog.md",
+                "file": "HelloWorld.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Setting up this blog.md"
+                "file": "HelloWorld.md"
               }
             }
           }
@@ -173,17 +173,17 @@
   },
   "active": "52b89159947225b1",
   "lastOpenFiles": [
+    "index.md",
+    "HelloWorld.md",
     "Tidbits/New Technology.md",
+    "templates/New Post Template.md",
     "Coding/Setting up this blog.md",
     "Tidbits/Hi boren.md",
-    "templates/New Post Template.md",
-    "HelloWorld.md",
     "Tidbits/Showing this to arjun.md",
     "test-an-update.md",
     "site-vault",
     "Testing sync.md",
     "Coding",
-    "index.md",
     "Tidbits/Hi Kelly.md",
     "templates",
     "Tidbits"
