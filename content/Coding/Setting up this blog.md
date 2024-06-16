@@ -11,3 +11,5 @@ This "blog" runs off quartz, which is a great way to create a static site out of
 I should **theoretically** be able to get this working on my laptop, phone, and iPad, which means I'll be able to keep my notes in sync, push and deploy from wherever I want to.
 
 Hopefully it works 🤞!
+
+Update: first post from phone!!
