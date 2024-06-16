@@ -3,6 +3,7 @@ title: A List of English Words with Hindi Roots
 draft: false
 tags:
   - hindi
+date: 2024-06-15
 ---
  While learning Hindi, I've come across some English words I didn't know had roots in Hindi:
  - **जंगल**: jungle, same spelling/pronunciation

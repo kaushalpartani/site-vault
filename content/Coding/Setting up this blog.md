@@ -4,6 +4,7 @@ draft: false
 tags:
   - learning
   - coding
+date: 2024-06-15
 ---
 ## The Requirements
 I've actually had this idea in mind for a while. In particular, I've wanted to use Obsidian on various platforms (my phone, ipad, laptop, etc.) alongside the ability to share notes with friends or have a website to direct to. 
@@ -34,4 +35,5 @@ For now, I'm happy with this workflow. There are some annoying bits like:
 - needing to remember a "git backup" action via the plugin since I'm concerned about merge conflicts and how the plugin deals with those
 - needing to fix the ui on mobile -- the explorer needs to be in a less random place
 - doing hacky things to make this work; I'd like to figure out what the right way to do certain things like this are and eventually implement those
+
 I'm looking forward to being able to jot random things down, either from my laptop or phone, and to be able to share it with whomever, whenever.

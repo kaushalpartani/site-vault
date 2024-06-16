@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tidbits/Hindi Words English Words.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tidbits/Hindi Words English Words.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tidbits/Hindi Words English Words.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tidbits/Hindi Words English Words.md"
+                "file": "index.md"
               }
             }
           }
@@ -174,11 +174,12 @@
   "active": "52b89159947225b1",
   "lastOpenFiles": [
     "HelloWorld.md",
-    "Tidbits/Hindi Words English Words.md",
-    "index.md",
     "Tidbits/New Technology.md",
+    "Tidbits/Hindi Words English Words.md",
     "templates/New Post Template.md",
     "Coding/Setting up this blog.md",
+    "index.md",
+    "templates/dates.md",
     "Tidbits/Hi boren.md",
     "Tidbits/Showing this to arjun.md",
     "test-an-update.md",
