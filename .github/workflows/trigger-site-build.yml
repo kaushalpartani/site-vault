@@ -12,7 +12,7 @@ jobs:
     steps:
     - name: Trigger build on kaushalpartani.github.io
       env:
-        GH_PAT: ${{ secrets.GH_PAT }}
+        GH_PAT: ${{ secrets.GH_ACCESS_TOKEN }}
       run: |
         curl -X POST \
           -H "Accept: application/vnd.github+json" \
