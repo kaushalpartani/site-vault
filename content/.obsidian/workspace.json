@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "514b7f871b1810b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tidbits/Showing this to arjun.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tidbits/Showing this to arjun.md",
+                "file": "Tidbits/New Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tidbits/Showing this to arjun.md",
+                "file": "Tidbits/New Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tidbits/Showing this to arjun.md"
+                "file": "Tidbits/New Technology.md"
               }
             }
           }
@@ -183,11 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "514b7f871b1810b8",
+  "active": "52b89159947225b1",
   "lastOpenFiles": [
+    "Tidbits/Showing this to arjun.md",
+    "test-an-update.md",
     "site-vault",
     "Coding/Setting up this blog.md",
-    "Tidbits/Showing this to arjun.md",
     "Testing sync.md",
     "Coding",
     "Tidbits/New Technology.md",
