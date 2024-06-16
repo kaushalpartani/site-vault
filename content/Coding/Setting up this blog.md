@@ -4,6 +4,7 @@ draft: false
 tags:
   - coding
   - blog
+  - learning
 ---
 ## The Requirements
 I've actually had this idea in mind for a while. In particular, I've wanted to use Obsidian on various platforms (my phone, ipad, laptop, etc.) alongside the ability to share notes with friends or have a website to direct to. 
@@ -25,7 +26,13 @@ From there, I needed to create a couple of github action scripts + enhancements.
 The workflow is as follows:
 - Vault repo gets pushed to
 - Vault repo actions triggers the site repo to begin both github actions
-- Site repo actions trigger and build the website
+- Site repo actions trigger
+- Site repo actions copy vault repo data over
+- Site repo actions execute to deploy github pages
 
 ### The Results
-For now, I'm happy with this workflow. There are some annoying bits like needing to remember a "git backup" action via the plugin since I'm concerned about merge conflicts and how the plugin deals with those, but overall it's definitely not bad. I'm looking forward to being able to jot random things down, either from my laptop or phone, and to be able to share it with whomever, whenever.
+For now, I'm happy with this workflow. There are some annoying bits like:
+- needing to remember a "git backup" action via the plugin since I'm concerned about merge conflicts and how the plugin deals with those
+- needing to fix the ui on mobile -- the explorer needs to be in a less random place
+- doing hacky things to make this work; I'd like to figure out what the right way to do certain things like this are and eventually implement those
+I'm looking forward to being able to jot random things down, either from my laptop or phone, and to be able to share it with whomever, whenever.
