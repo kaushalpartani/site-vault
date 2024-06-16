@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f851e31fee1edae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Tidbits/Hi boren.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Coding/Setting up this blog.md",
+            "file": "content/Tidbits/Hi boren.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Coding/Setting up this blog.md",
+            "file": "content/Tidbits/Hi boren.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Coding/Setting up this blog.md"
+            "file": "content/Tidbits/Hi boren.md"
           }
         }
       }
@@ -131,6 +144,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3427441e0ceea184",
-  "lastOpenFiles": []
+  "active": "f851e31fee1edae5",
+  "lastOpenFiles": [
+    "content/Coding/Setting up this blog.md",
+    "content/Tidbits/Hi boren.md"
+  ]
 }
