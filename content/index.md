@@ -13,4 +13,4 @@ Currently, I'm:
 	- Dart
 	- Python frameworks and libraries
 	- Contributing to open source
-- Getting back into consistent gymming to gain muscle while paying special attention to my knees, which have given me problems for most of my life.
+- Getting back into consistent gymming to gain muscle while paying special attention to my knees, which have given me problems for most of my life

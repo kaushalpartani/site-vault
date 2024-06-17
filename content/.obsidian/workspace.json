@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Entry Software Engineer Mock Interview.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Entry Software Engineer Mock Interview.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Entry Software Engineer Mock Interview.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Entry Software Engineer Mock Interview.md"
+                "file": "index.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "52b89159947225b1",
   "lastOpenFiles": [
-    "Tidbits/Reflections on Organization.md",
     "Coding/Entry Software Engineer Mock Interview.md",
+    "Tidbits/Reflections on Organization.md",
     "Tidbits/Hindi Words English Words.md",
     "Tidbits/New Technology.md",
     "Coding/Setting up this blog.md",
