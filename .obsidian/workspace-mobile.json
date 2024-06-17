@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Coding/Entry Software Engineer Mock Interview.md",
+                "file": "content/Tidbits/Being Wrong.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Coding/Entry Software Engineer Mock Interview.md",
+            "file": "content/Tidbits/Being Wrong.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Coding/Entry Software Engineer Mock Interview.md",
+            "file": "content/Tidbits/Being Wrong.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Coding/Entry Software Engineer Mock Interview.md"
+            "file": "content/Tidbits/Being Wrong.md"
           }
         }
       }
@@ -133,27 +133,27 @@
   },
   "active": "3427441e0ceea184",
   "lastOpenFiles": [
-    "content/Tidbits/hi manan.md",
+    "content/templates/Tidbit.md",
+    "content/Tidbits/Being Wrong.md",
+    "content/Tidbits/Hindi Words English Words.md",
     "content/Coding/Entry Software Engineer Mock Interview.md",
+    "content/Tidbits/hi manan.md",
     "/content/Tidbits/hi manan.md",
     "content/Tidbits/Reflections on Organization.md",
     "/content/index.md",
     "/content/Coding/Entry Software Engineer Mock Interview.md",
     "content/index.md",
     "/content/Tidbits/Reflections on Organization.md",
-    "content/templates/Tidbit.md",
     "content/templates/General New Post.md",
     "content/templates/Coding.md",
     "/content/templates/Tidbit.md",
     "/content/templates/General New Post.md",
     "/content/templates/Coding.md",
-    "content/Tidbits/Hindi Words English Words.md",
     "/content/templates/New Post Template.md",
     "/content/Tidbits/New Technology.md",
     "/content/Tidbits/Hindi Words English Words.md",
     "/content/HelloWorld.md",
     "/content/Coding/Setting up this blog.md",
-    "content/Tidbits/Untitled.md",
     "content/Coding/Setting up this blog.md",
     "content/Tidbits/Hi boren.md"
   ]
