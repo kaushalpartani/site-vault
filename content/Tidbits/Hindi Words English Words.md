@@ -11,3 +11,4 @@ date: 2024-06-17
  - **लूट**: loot, same spelling/pronunciation
  - **ठग**: thug, comes from the Hindi word thag, aka swindler
  - **जगन्नाथ**: Juggernaut, comes from the Hindi word Jagannath, an avatar of Vishnu
+ - **ख़ुशी**: Cushy, comes from the Hindi word Khushi, meaning happiness
