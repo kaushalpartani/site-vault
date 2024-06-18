@@ -4,10 +4,10 @@ draft: false
 tags:
   - hindi
   - tidbit
-date: 2024-06-15
+date: 2024-06-17
 ---
  While learning Hindi, I've come across some English words I didn't know had roots in Hindi:
  - **जंगल**: jungle, same spelling/pronunciation
  - **लूट**: loot, same spelling/pronunciation
- - **ठग**: thug, comes from the Hindi word thag, aka swindler.
+ - **ठग**: thug, comes from the Hindi word thag, aka swindler
  - **जगन्नाथ**: Juggernaut, comes from the Hindi word Jagannath, an avatar of Vishnu

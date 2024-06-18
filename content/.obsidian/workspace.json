@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tidbits/Hindi Words English Words.md",
+                "file": "Coding/Entry Software Engineer Mock Interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tidbits/Hindi Words English Words.md",
+                "file": "Coding/Entry Software Engineer Mock Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tidbits/Hindi Words English Words.md",
+                "file": "Coding/Entry Software Engineer Mock Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tidbits/Hindi Words English Words.md"
+                "file": "Coding/Entry Software Engineer Mock Interview.md"
               }
             }
           }
@@ -185,18 +185,18 @@
   },
   "active": "205411975cd83a4e",
   "lastOpenFiles": [
-    "Tidbits/Being Wrong.md",
-    "Tidbits/hi manan.md",
-    "Tidbits/Hindi Words English Words.md",
-    "HelloWorld.md",
+    "Coding/Setting up this blog.md",
+    "templates/General New Post.md",
+    "templates/Tidbit.md",
     "index.md",
-    "Coding/Entry Software Engineer Mock Interview.md",
+    "HelloWorld.md",
     "Tidbits/Reflections on Organization.md",
     "Tidbits/New Technology.md",
-    "Coding/Setting up this blog.md",
-    "templates/Tidbit.md",
+    "Tidbits/Being Wrong.md",
+    "Tidbits/Hindi Words English Words.md",
+    "Tidbits/hi manan.md",
+    "Coding/Entry Software Engineer Mock Interview.md",
     "templates/Coding.md",
-    "templates/General New Post.md",
     "templates/Untitled.md",
     "templates/dates.md",
     "Tidbits/Hi boren.md",
