@@ -10,3 +10,4 @@ date: 2024-06-15
  - **जंगल**: jungle, same spelling/pronunciation
  - **लूट**: loot, same spelling/pronunciation
  - **ठग**: thug, comes from the Hindi word thag, aka swindler.
+ - **जगन्नाथ**: Juggernaut, comes from the Hindi word Jagannath, an avatar of Vishnu
