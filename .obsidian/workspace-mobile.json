@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Tidbits/Being Wrong.md",
+                "file": "content/Tidbits/Getting out of the house.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Tidbits/Being Wrong.md",
+            "file": "content/Tidbits/Getting out of the house.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Tidbits/Being Wrong.md",
+            "file": "content/Tidbits/Getting out of the house.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Tidbits/Being Wrong.md"
+            "file": "content/Tidbits/Getting out of the house.md"
           }
         }
       }
@@ -133,11 +133,13 @@
   },
   "active": "3427441e0ceea184",
   "lastOpenFiles": [
-    "content/Coding/Setting up this blog.md",
-    "/content/Tidbits/Hindi Words English Words.md",
-    "content/Tidbits/Being Wrong.md",
-    "content/templates/Tidbit.md",
     "content/Tidbits/Hindi Words English Words.md",
+    "content/Tidbits/Getting out of the house.md",
+    "content/Coding/Setting up this blog.md",
+    "content/Tidbits/Community.md",
+    "content/Tidbits/Being Wrong.md",
+    "/content/Tidbits/Hindi Words English Words.md",
+    "content/templates/Tidbit.md",
     "content/Coding/Entry Software Engineer Mock Interview.md",
     "content/Tidbits/hi manan.md",
     "/content/Tidbits/hi manan.md",
