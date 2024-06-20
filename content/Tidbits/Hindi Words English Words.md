@@ -4,7 +4,7 @@ draft: false
 tags:
   - hindi
   - tidbit
-date: 2024-06-20
+date: 2024-06-20T10:48:33-07:00
 ---
  While learning Hindi, I've come across some English words I didn't know had roots in Hindi:
  - **जंगल**: jungle, same spelling/pronunciation
