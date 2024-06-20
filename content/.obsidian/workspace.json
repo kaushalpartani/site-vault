@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Designing Data Intensive Applications.md",
+                "file": "Tidbits/Learner Types and Why They're Important.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Designing Data Intensive Applications.md",
+                "file": "Tidbits/Learner Types and Why They're Important.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Designing Data Intensive Applications.md",
+                "file": "Tidbits/Learner Types and Why They're Important.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Designing Data Intensive Applications.md"
+                "file": "Tidbits/Learner Types and Why They're Important.md"
               }
             }
           }
@@ -197,19 +197,20 @@
   },
   "active": "2b2abffd462e04f2",
   "lastOpenFiles": [
-    "templates/General New Post.md",
-    "Coding/Designing Data Intensive Applications.md",
     "Tidbits/Getting out of the house.md",
     "Tidbits/Hindi Words English Words.md",
+    "Tidbits/Reflections on Organization.md",
+    "Tidbits/Being Wrong.md",
+    "Tidbits/Learner Types and Why They're Important.md",
+    "Coding/Designing Data Intensive Applications.md",
+    "templates/General New Post.md",
     "Datha mock behavioral interview.pdf",
     "Coding/Entry Software Engineer Mock Interview.md",
     "Coding/Setting up this blog.md",
     "templates/Tidbit.md",
     "index.md",
     "HelloWorld.md",
-    "Tidbits/Reflections on Organization.md",
     "Tidbits/New Technology.md",
-    "Tidbits/Being Wrong.md",
     "Tidbits/hi manan.md",
     "templates/Coding.md",
     "templates/Untitled.md",

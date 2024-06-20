@@ -3,6 +3,7 @@ title: Being Wrong
 draft: false
 tags:
   - tidbit
+  - self-reflection
 date: 2024-06-17
 ---
  

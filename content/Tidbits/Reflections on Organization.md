@@ -4,6 +4,7 @@ draft: false
 tags:
   - tidbit
   - organization
+  - self-reflection
 date: 2024-06-16
 ---
  
