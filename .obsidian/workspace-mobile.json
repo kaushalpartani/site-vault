@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Tidbits/Learner Types and Why They're Important.md",
+                "file": "content/Tidbits/Hindi Words English Words.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Tidbits/Learner Types and Why They're Important.md",
+            "file": "content/Tidbits/Hindi Words English Words.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Tidbits/Learner Types and Why They're Important.md",
+            "file": "content/Tidbits/Hindi Words English Words.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Tidbits/Learner Types and Why They're Important.md"
+            "file": "content/Tidbits/Hindi Words English Words.md"
           }
         }
       }
@@ -133,8 +133,8 @@
   },
   "active": "3427441e0ceea184",
   "lastOpenFiles": [
-    "content/Tidbits/Getting out of the house.md",
     "content/Tidbits/Learner Types and Why They're Important.md",
+    "content/Tidbits/Getting out of the house.md",
     "content/Coding/Designing Data Intensive Applications.md",
     "/content/Tidbits/Reflections on Organization.md",
     "/content/Tidbits/Learner Types and Why They're Important.md",
