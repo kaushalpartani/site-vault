@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Tidbits/Hindi Words English Words.md",
+                "file": "content/Tests/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Tidbits/Hindi Words English Words.md",
+            "file": "content/Tests/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Tidbits/Hindi Words English Words.md",
+            "file": "content/Tests/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Tidbits/Hindi Words English Words.md"
+            "file": "content/Tests/Untitled.md"
           }
         }
       }
@@ -133,6 +133,12 @@
   },
   "active": "3427441e0ceea184",
   "lastOpenFiles": [
+    "content/HelloWorld.md",
+    "content/Tests/Untitled.md",
+    "content/Tidbits/Being Wrong.md",
+    "content/Tests",
+    "content/Tidbits/Hindi Words English Words.md",
+    "/content/Tidbits/Hindi Words English Words.md",
     "content/Tidbits/Learner Types and Why They're Important.md",
     "content/Tidbits/Getting out of the house.md",
     "content/Coding/Designing Data Intensive Applications.md",
@@ -141,11 +147,8 @@
     "/content/Tidbits/Getting out of the house.md",
     "/content/Tidbits/Being Wrong.md",
     "/content/Coding/Designing Data Intensive Applications.md",
-    "content/Tidbits/Hindi Words English Words.md",
     "content/Coding/Setting up this blog.md",
     "content/Tidbits/Community.md",
-    "content/Tidbits/Being Wrong.md",
-    "/content/Tidbits/Hindi Words English Words.md",
     "content/templates/Tidbit.md",
     "content/Coding/Entry Software Engineer Mock Interview.md",
     "content/Tidbits/hi manan.md",
@@ -156,8 +159,6 @@
     "content/index.md",
     "content/templates/General New Post.md",
     "content/templates/Coding.md",
-    "/content/templates/Tidbit.md",
-    "/content/templates/General New Post.md",
-    "/content/templates/Coding.md"
+    "/content/templates/Tidbit.md"
   ]
 }
