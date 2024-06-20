@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tidbits/Hindi Words English Words.md",
+                "file": "Coding/Designing Data Intensive Applications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b2abffd462e04f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Designing Data Intensive Applications.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tidbits/Hindi Words English Words.md",
+                "file": "Coding/Designing Data Intensive Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tidbits/Hindi Words English Words.md",
+                "file": "Coding/Designing Data Intensive Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tidbits/Hindi Words English Words.md"
+                "file": "Coding/Designing Data Intensive Applications.md"
               }
             }
           }
@@ -183,18 +195,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "205411975cd83a4e",
+  "active": "2b2abffd462e04f2",
   "lastOpenFiles": [
+    "templates/General New Post.md",
+    "Coding/Designing Data Intensive Applications.md",
+    "Tidbits/Getting out of the house.md",
+    "Tidbits/Hindi Words English Words.md",
+    "Datha mock behavioral interview.pdf",
     "Coding/Entry Software Engineer Mock Interview.md",
     "Coding/Setting up this blog.md",
-    "templates/General New Post.md",
     "templates/Tidbit.md",
     "index.md",
     "HelloWorld.md",
     "Tidbits/Reflections on Organization.md",
     "Tidbits/New Technology.md",
     "Tidbits/Being Wrong.md",
-    "Tidbits/Hindi Words English Words.md",
     "Tidbits/hi manan.md",
     "templates/Coding.md",
     "templates/Untitled.md",
