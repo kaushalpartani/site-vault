@@ -3,7 +3,7 @@
   "momentFormat": "",
   "excludedFolders": [],
   "useKeyupEvents": false,
-  "onlyUpdateExisting": false,
+  "onlyUpdateExisting": true,
   "timeout": 10,
   "excludeField": "exclude_modified_update",
   "appendField": "append_modified_update",
