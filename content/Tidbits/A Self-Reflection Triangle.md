@@ -4,7 +4,7 @@ draft: true
 tags:
   - tidbit
   - self-reflection
-date: 2024-06-22T09:25:20-07:00
+date: 2024-06-22T09:33:39-07:00
 ---
  
 Last night, I met a friend who I hadn't seen in a while. I mentioned that I was at ends about how I've been leading my life. Recently, I've tried to get more into volunteering and, in general, doing a bit more with my extra time that contributes to some greater good I believe in. For now, that's been weekly cleanups, but in the future I'm planning on diversifying that and trying out soup kitchens, food banks, (hopefully) an animal shelter. All this is a fairly new installment, having set up these goals for myself just over a month ago. 
@@ -22,4 +22,4 @@ So, to put it into writing, I'm evaluating my answers for these questions today,
 This one is a tricky one for me. No matter how much I earn, how much I save, etc. I know that I will never feel satisfied. I'm only 25 and I have no idea what the road ahead of me will look like. The best I can do right now is plan for the worst. That boils down to saving enough money to feel comfortable, but right now my level of comfort isn't tangible. I'm honestly not sure if it'll ever be. For now, I've decided that if and when I do feel comfortable, any monetary donations would be done through an organization that I thoroughly research to make sure money is going to a cause I truly care about.
 
 ### What Can I Do With My Actions/Time?
-In particular, I feel like this is the category that I can make the most impact through. I don't have any real dependents, I work a remote job,
+In particular, I feel like this is the category that I can make the most impact through. I don't have any real dependents, I work a remote job, and in general, I just have a decent chunk of time. 
