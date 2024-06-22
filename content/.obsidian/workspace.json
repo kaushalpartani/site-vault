@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tidbits/Getting out of the house.md",
+                "file": "Tidbits/A Self-Reflection Triangle.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tidbits/Getting out of the house.md",
+                "file": "Tidbits/A Self-Reflection Triangle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tidbits/Getting out of the house.md",
+                "file": "Tidbits/A Self-Reflection Triangle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tidbits/Getting out of the house.md"
+                "file": "Tidbits/A Self-Reflection Triangle.md"
               }
             }
           }
@@ -197,15 +197,16 @@
   },
   "active": "2b2abffd462e04f2",
   "lastOpenFiles": [
-    "Personal/Packing List.md",
+    "Tidbits/Reflections on Organization.md",
+    "Tidbits/A Self-Reflection Triangle.md",
+    "Tidbits/Learner Types and Why They're Important.md",
     "Tidbits/Getting out of the house.md",
+    "Personal/Packing List.md",
     "Personal",
     "Tidbits/Hindi Words English Words.md",
     "Tests/Untitled.md",
     "HelloWorld.md",
     "Tests",
-    "Tidbits/Reflections on Organization.md",
-    "Tidbits/Learner Types and Why They're Important.md",
     "Tidbits/Being Wrong.md",
     "Coding/Designing Data Intensive Applications.md",
     "templates/General New Post.md",
