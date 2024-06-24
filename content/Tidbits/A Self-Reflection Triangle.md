@@ -1,6 +1,6 @@
 ---
 title: A Self-Reflection Triangle
-draft: true
+draft: false
 tags:
   - tidbit
   - self-reflection
