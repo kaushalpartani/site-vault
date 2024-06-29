@@ -4,7 +4,7 @@ draft: false
 tags:
   - tidbit
   - self-reflection
-date: 2024-06-23T19:45:28-07:00
+date: 2024-06-23T19:47:09-07:00
 ---
  
 A few nights ago, I met a friend who I hadn't seen in a while. I mentioned that I was at ends about how I've been leading my life. Recently, I've tried to get more into volunteering and, in general, doing a bit more with my extra time that contributes to some greater good I believe in. For now, that's been weekly cleanups, but in the future I'm planning on diversifying that and trying out soup kitchens, food banks, (hopefully) an animal shelter. All this is a fairly new installment, having set up these goals for myself just over a month ago. 

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tidbits/A Self-Reflection Triangle.md",
+                "file": "Tidbits/Philosophies on How to Live Life.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tidbits/A Self-Reflection Triangle.md",
+                "file": "Tidbits/Philosophies on How to Live Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tidbits/A Self-Reflection Triangle.md",
+                "file": "Tidbits/Philosophies on How to Live Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tidbits/A Self-Reflection Triangle.md"
+                "file": "Tidbits/Philosophies on How to Live Life.md"
               }
             }
           }
@@ -197,12 +197,14 @@
   },
   "active": "2b2abffd462e04f2",
   "lastOpenFiles": [
+    "Tidbits/A Self-Reflection Triangle.md",
+    "Tidbits/Untitled.md",
+    "Tidbits/Philosophies on How to Live Life.md",
     "HelloWorld.md",
     "Tidbits/New Technology.md",
     "index.md",
     "Tidbits/Getting out of the house.md",
     "Tidbits/Being Wrong.md",
-    "Tidbits/A Self-Reflection Triangle.md",
     "Tidbits/Hindi Words English Words.md",
     "Tidbits/Reflections on Organization.md",
     "Tidbits/Learner Types and Why They're Important.md",
@@ -226,7 +228,6 @@
     "site-vault",
     "Testing sync.md",
     "Coding",
-    "Tidbits/Hi Kelly.md",
     "templates",
     "Tidbits"
   ]
