@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Tidbits/A Self-Reflection Triangle.md",
+                "file": "content/Tidbits/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Tidbits/A Self-Reflection Triangle.md",
+            "file": "content/Tidbits/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Tidbits/A Self-Reflection Triangle.md",
+            "file": "content/Tidbits/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Tidbits/A Self-Reflection Triangle.md"
+            "file": "content/Tidbits/Untitled.md"
           }
         }
       }
@@ -133,13 +133,16 @@
   },
   "active": "3427441e0ceea184",
   "lastOpenFiles": [
-    "content/Tidbits/Hindi Words English Words.md",
-    "content/Tidbits/A Self-Reflection Triangle.md",
     "content/Tests/Untitled.md",
+    "content/Tidbits/Untitled.md",
+    "content/Tidbits/Hindi Words English Words.md",
+    "/content/Tidbits/A Self-Reflection Triangle.md",
+    "/content/HelloWorld.md",
+    "/content/Tidbits/Hindi Words English Words.md",
+    "content/Tidbits/A Self-Reflection Triangle.md",
     "content/HelloWorld.md",
     "content/Tidbits/Being Wrong.md",
     "content/Tests",
-    "/content/Tidbits/Hindi Words English Words.md",
     "content/Tidbits/Learner Types and Why They're Important.md",
     "content/Tidbits/Getting out of the house.md",
     "content/Coding/Designing Data Intensive Applications.md",
@@ -156,9 +159,6 @@
     "/content/Tidbits/hi manan.md",
     "content/Tidbits/Reflections on Organization.md",
     "/content/index.md",
-    "/content/Coding/Entry Software Engineer Mock Interview.md",
-    "content/index.md",
-    "content/templates/General New Post.md",
-    "content/templates/Coding.md"
+    "/content/Coding/Entry Software Engineer Mock Interview.md"
   ]
 }
