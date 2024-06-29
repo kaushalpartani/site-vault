@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Tidbits/Untitled.md",
+                "file": "content/Tidbits/Philosophies on How to Live Life.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Tidbits/Untitled.md",
+            "file": "content/Tidbits/Philosophies on How to Live Life.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Tidbits/Untitled.md",
+            "file": "content/Tidbits/Philosophies on How to Live Life.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Tidbits/Untitled.md"
+            "file": "content/Tidbits/Philosophies on How to Live Life.md"
           }
         }
       }
@@ -134,7 +134,7 @@
   "active": "3427441e0ceea184",
   "lastOpenFiles": [
     "content/Tests/Untitled.md",
-    "content/Tidbits/Untitled.md",
+    "content/Tidbits/Philosophies on How to Live Life.md",
     "content/Tidbits/Hindi Words English Words.md",
     "/content/Tidbits/A Self-Reflection Triangle.md",
     "/content/HelloWorld.md",
